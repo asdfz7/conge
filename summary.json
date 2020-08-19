@@ -1,1 +1,12 @@
-
+{
+  "db_name": "Congee Pool",
+  "db_ticker": "CGE",
+  "tax_ratio": 0.015,
+  "tax_fix": 340,
+  "pledge": 134900,
+  "total_stake": 153393,
+  "roa": 0,
+  "rewards_epoch": 0,
+  "blocks_lifetime": 0,
+  "blocks_epoch": 0
+}
