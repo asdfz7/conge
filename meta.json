@@ -1,7 +1,7 @@
 {
   "name": "Congee Pool",
   "ticker": "CGE",
-  "description": "I love congee!",
+  "description": "Our mission is to assist in the accelerated adoption of the Cardano ecosystem by providing staking services at the lowest price possible.",
   "homepage": "https://congeepool.com",
   "nonce": "1596211603",
   "extended": "https://raw.githubusercontent.com/asdfz7/cge/master/extended-meta.json"
