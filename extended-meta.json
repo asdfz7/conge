@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon",
-        "url_png_logo": "http(s) url to pool logo",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/asdfz7/cge/master/congeepool64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/asdfz7/cge/master/congeepool.png",
         "location": "Toronto, Canada",
         "social": {
             "twitter_handle": "congeepool"
