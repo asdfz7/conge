@@ -3,5 +3,6 @@
   "ticker": "CGE",
   "description": "I love congee!",
   "homepage": "https://congeepool.com",
-  "nonce": "1596211603"
+  "nonce": "1596211603",
+  "extended": "https://raw.githubusercontent.com/asdfz7/cge/master/extended-meta.json"
 }
