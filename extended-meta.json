@@ -7,9 +7,8 @@
             "twitter_handle": "congeepool"
         },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "An accredited professional in the financial industry with programming background",
+            "server": "Dedicated relay nodes (2) and block-producing node (1) hosted on Digital Ocean. A bare-metal backup node used when performing routine maintenance and updates on the block-producing node to maximize uptime. Digital Ocean provides a 99.99% uptime Service Level Agreement."
         }
     },
     "my-pool-ids": {
