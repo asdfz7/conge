@@ -1,8 +1,7 @@
 {
   "name": "Congee Pool",
-  "ticker": "CGE",
-  "description": "Our mission is to assist in the accelerated adoption of the Cardano ecosystem by providing staking services at the lowest price possible.",
+  "ticker": "CONGE",
+  "description": "Independently operated in Canada. Dedicated to offer reliable staking services at 0% margin.",
   "homepage": "https://congeepool.com",
-  "nonce": "1596211603",
   "extended": "https://raw.githubusercontent.com/asdfz7/cge/master/extended-meta.json"
 }
