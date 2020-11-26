@@ -7,14 +7,14 @@
             "twitter_handle": "congeepool"
         },
         "about": {
-            "me": "An accredited professional in the financial industry with programming background",
+            "me": "A CPA with programming background",
             "server": "Dedicated relay nodes (2) and block-producing node (1) hosted on Digital Ocean. A bare-metal backup node used when performing routine maintenance and updates on the block-producing node to maximize uptime. Digital Ocean provides a 99.99% uptime Service Level Agreement."
         }
     },
     "my-pool-ids": {
-        "0": "e35d3918cc7098fa61de7990babb2d87fdfb1c753220e53a05bef95d"
+        "0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89"
     },
     "when-satured-then-recommend": {
-        "0": "e35d3918cc7098fa61de7990babb2d87fdfb1c753220e53a05bef95d"
+        "0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89"
     }
 }
