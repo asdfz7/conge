@@ -12,9 +12,10 @@
         }
     },
     "my-pool-ids": {
-        "0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89"
+        "0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89",
+        "1": "6e75544df8deb82f46153b20f5d71766deaca701089c939784566532"
     },
     "when-satured-then-recommend": {
-        "0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89"
+        "0": "6e75544df8deb82f46153b20f5d71766deaca701089c939784566532"
     }
 }
