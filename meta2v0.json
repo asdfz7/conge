@@ -1,7 +1,7 @@
 {
-  "name": "Congee Pool Too",
+  "name": "Congee Pool Two",
   "ticker": "CONGE",
-  "description": "Currently 0% Margin. Independently operated in Canada. Dedicated to offering reliable and affordable staking services.",
+  "description": "Currently 0% Margin and minimum fixed fees. Independently operated in Canada. Dedicated to offering reliable and affordable staking services.",
   "homepage": "https://congeepool.com",
   "extended": "https://raw.githubusercontent.com/asdfz7/conge/master/extend2.json"
 }
