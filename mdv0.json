@@ -1,7 +1,7 @@
 {
   "name": "Congee Pool",
   "ticker": "CONGE",
-  "description": "Independently operated in Canada. Dedicated to offering reliable and affordable staking services. If close to saturation, please delegate to pool #2 (0% Margin + Min Fixed Fees). Thank you everyone!",
+  "description": "If close to saturation, please delegate to Congee Pool Two (0% Margin + Min Fixed Fees). Thank you all for your support!",
   "homepage": "https://congeepool.com",
   "extended": "https://raw.githubusercontent.com/asdfz7/conge/master/ext.json"
 }
