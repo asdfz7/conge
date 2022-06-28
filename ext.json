@@ -8,7 +8,7 @@
             "telegram_handle": "joinchat/eGSpIrw_zm45NmUx"
         },
         "about": {
-            "me": "A CPA with programming background 097d5c96430f760d85",
+            "me": "A CPA with programming background",
             "server": "Dedicated relay nodes (2) and block-producing node (1) hosted on various VPS providers for redundancy. A bare-metal backup node used when performing routine maintenance and upgrades on the production nodes to maximize uptime. VPS providers provide a 99.99% uptime Service Level Agreement."
         }
     },
