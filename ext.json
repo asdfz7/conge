@@ -11,11 +11,5 @@
             "me": "A CPA with programming background",
             "server": "Dedicated relay nodes (2) and block-producing node (1) hosted on various VPS providers for redundancy. A bare-metal backup node used when performing routine maintenance and upgrades on the production nodes to maximize uptime. VPS providers provide a 99.99% uptime Service Level Agreement."
         }
-    },
-    "my-pool-ids": {
-        "0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89"
-    },
-    "when-satured-then-recommend": {
-        "0": "49b7d9e2116ef05fbe1ee784391e31aecb360bbba2e979f389ae3d89"
     }
 }
